@@ -1,0 +1,4 @@
+com\mohit\model\Person.class
+com\mohit\logpro\LogProcessor.class
+com\mohit\doa\LogProfileDaoImpl.class
+com\mohit\model\LogProfile.class
