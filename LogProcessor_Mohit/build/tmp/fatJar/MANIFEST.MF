@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+
+Name: log processor util
+Implementation-Version: 1.0-SNAPSHOT
+Main-Class: com.mohit.logpro.LogProcessor
+
